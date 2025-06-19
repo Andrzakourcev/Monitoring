@@ -107,5 +107,9 @@ Grafana:
 
 ![image](https://github.com/user-attachments/assets/1ff8aa38-0b87-4c2f-b25a-1cd8cc2b0c7b)
 
+Также протестировал создание тестовой нагрузки:
+
+![image](https://github.com/user-attachments/assets/8c7f6ee5-d8b8-4f66-89cc-5c32e51707b8)
 
 
+И 
